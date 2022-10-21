@@ -27,13 +27,13 @@
   "libraries": {
     "Queues/1.0.0": {
       "type": "project",
-      "path": "../../../MyQueue/MyQueue/Queues.csproj",
-      "msbuildProject": "../../../MyQueue/MyQueue/Queues.csproj"
+      "path": "../Queues/Queues.csproj",
+      "msbuildProject": "../Queues/Queues.csproj"
     },
     "Stacks/1.0.0": {
       "type": "project",
-      "path": "../../../MyStack/MyStack/Stacks.csproj",
-      "msbuildProject": "../../../MyStack/MyStack/Stacks.csproj"
+      "path": "../Stacks/Stacks.csproj",
+      "msbuildProject": "../Stacks/Stacks.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -75,11 +75,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\C#\\Структуры данных\\MyQueue\\MyQueue\\Queues.csproj": {
-              "projectPath": "D:\\C#\\Структуры данных\\MyQueue\\MyQueue\\Queues.csproj"
+            "D:\\C#\\Структуры данных\\DataStructures\\DataStructures\\Queues\\Queues.csproj": {
+              "projectPath": "D:\\C#\\Структуры данных\\DataStructures\\DataStructures\\Queues\\Queues.csproj"
             },
-            "D:\\C#\\Структуры данных\\MyStack\\MyStack\\Stacks.csproj": {
-              "projectPath": "D:\\C#\\Структуры данных\\MyStack\\MyStack\\Stacks.csproj"
+            "D:\\C#\\Структуры данных\\DataStructures\\DataStructures\\Stacks\\Stacks.csproj": {
+              "projectPath": "D:\\C#\\Структуры данных\\DataStructures\\DataStructures\\Stacks\\Stacks.csproj"
             }
           }
         }

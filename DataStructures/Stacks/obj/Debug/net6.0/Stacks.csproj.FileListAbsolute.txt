@@ -1,0 +1,12 @@
+D:\C#\Структуры данных\DataStructures\DataStructures\Stacks\bin\Debug\net6.0\Stacks.deps.json
+D:\C#\Структуры данных\DataStructures\DataStructures\Stacks\bin\Debug\net6.0\Stacks.dll
+D:\C#\Структуры данных\DataStructures\DataStructures\Stacks\bin\Debug\net6.0\Stacks.pdb
+D:\C#\Структуры данных\DataStructures\DataStructures\Stacks\obj\Debug\net6.0\Stacks.csproj.AssemblyReference.cache
+D:\C#\Структуры данных\DataStructures\DataStructures\Stacks\obj\Debug\net6.0\Stacks.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Структуры данных\DataStructures\DataStructures\Stacks\obj\Debug\net6.0\Stacks.AssemblyInfoInputs.cache
+D:\C#\Структуры данных\DataStructures\DataStructures\Stacks\obj\Debug\net6.0\Stacks.AssemblyInfo.cs
+D:\C#\Структуры данных\DataStructures\DataStructures\Stacks\obj\Debug\net6.0\Stacks.csproj.CoreCompileInputs.cache
+D:\C#\Структуры данных\DataStructures\DataStructures\Stacks\obj\Debug\net6.0\Stacks.dll
+D:\C#\Структуры данных\DataStructures\DataStructures\Stacks\obj\Debug\net6.0\refint\Stacks.dll
+D:\C#\Структуры данных\DataStructures\DataStructures\Stacks\obj\Debug\net6.0\Stacks.pdb
+D:\C#\Структуры данных\DataStructures\DataStructures\Stacks\obj\Debug\net6.0\ref\Stacks.dll

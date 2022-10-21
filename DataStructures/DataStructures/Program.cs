@@ -1,6 +1,5 @@
-﻿using MyQueue;
-using MyStack;
-using System;
+﻿using Queues;
+using Stacks;
 
 var testList = new List<string>()
 {
