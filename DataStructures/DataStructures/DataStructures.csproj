@@ -8,8 +8,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\..\MyQueue\MyQueue\Queues.csproj" />
-    <ProjectReference Include="..\..\..\MyStack\MyStack\Stacks.csproj" />
+    <ProjectReference Include="..\Queues\Queues.csproj" />
+    <ProjectReference Include="..\Stacks\Stacks.csproj" />
   </ItemGroup>
 
 </Project>

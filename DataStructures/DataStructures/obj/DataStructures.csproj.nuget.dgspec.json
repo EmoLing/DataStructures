@@ -33,11 +33,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\C#\\Структуры данных\\MyQueue\\MyQueue\\Queues.csproj": {
-                "projectPath": "D:\\C#\\Структуры данных\\MyQueue\\MyQueue\\Queues.csproj"
+              "D:\\C#\\Структуры данных\\DataStructures\\DataStructures\\Queues\\Queues.csproj": {
+                "projectPath": "D:\\C#\\Структуры данных\\DataStructures\\DataStructures\\Queues\\Queues.csproj"
               },
-              "D:\\C#\\Структуры данных\\MyStack\\MyStack\\Stacks.csproj": {
-                "projectPath": "D:\\C#\\Структуры данных\\MyStack\\MyStack\\Stacks.csproj"
+              "D:\\C#\\Структуры данных\\DataStructures\\DataStructures\\Stacks\\Stacks.csproj": {
+                "projectPath": "D:\\C#\\Структуры данных\\DataStructures\\DataStructures\\Stacks\\Stacks.csproj"
               }
             }
           }
@@ -71,14 +71,14 @@
         }
       }
     },
-    "D:\\C#\\Структуры данных\\MyQueue\\MyQueue\\Queues.csproj": {
+    "D:\\C#\\Структуры данных\\DataStructures\\DataStructures\\Queues\\Queues.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\Структуры данных\\MyQueue\\MyQueue\\Queues.csproj",
+        "projectUniqueName": "D:\\C#\\Структуры данных\\DataStructures\\DataStructures\\Queues\\Queues.csproj",
         "projectName": "Queues",
-        "projectPath": "D:\\C#\\Структуры данных\\MyQueue\\MyQueue\\Queues.csproj",
+        "projectPath": "D:\\C#\\Структуры данных\\DataStructures\\DataStructures\\Queues\\Queues.csproj",
         "packagesPath": "C:\\Users\\temch\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\Структуры данных\\MyQueue\\MyQueue\\obj\\",
+        "outputPath": "D:\\C#\\Структуры данных\\DataStructures\\DataStructures\\Queues\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -131,14 +131,14 @@
         }
       }
     },
-    "D:\\C#\\Структуры данных\\MyStack\\MyStack\\Stacks.csproj": {
+    "D:\\C#\\Структуры данных\\DataStructures\\DataStructures\\Stacks\\Stacks.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\Структуры данных\\MyStack\\MyStack\\Stacks.csproj",
+        "projectUniqueName": "D:\\C#\\Структуры данных\\DataStructures\\DataStructures\\Stacks\\Stacks.csproj",
         "projectName": "Stacks",
-        "projectPath": "D:\\C#\\Структуры данных\\MyStack\\MyStack\\Stacks.csproj",
+        "projectPath": "D:\\C#\\Структуры данных\\DataStructures\\DataStructures\\Stacks\\Stacks.csproj",
         "packagesPath": "C:\\Users\\temch\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\Структуры данных\\MyStack\\MyStack\\obj\\",
+        "outputPath": "D:\\C#\\Структуры данных\\DataStructures\\DataStructures\\Stacks\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

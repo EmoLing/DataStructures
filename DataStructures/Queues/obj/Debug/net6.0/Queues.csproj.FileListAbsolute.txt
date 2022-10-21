@@ -1,0 +1,12 @@
+D:\C#\Структуры данных\DataStructures\DataStructures\Queues\bin\Debug\net6.0\Queues.deps.json
+D:\C#\Структуры данных\DataStructures\DataStructures\Queues\bin\Debug\net6.0\Queues.dll
+D:\C#\Структуры данных\DataStructures\DataStructures\Queues\bin\Debug\net6.0\Queues.pdb
+D:\C#\Структуры данных\DataStructures\DataStructures\Queues\obj\Debug\net6.0\Queues.csproj.AssemblyReference.cache
+D:\C#\Структуры данных\DataStructures\DataStructures\Queues\obj\Debug\net6.0\Queues.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Структуры данных\DataStructures\DataStructures\Queues\obj\Debug\net6.0\Queues.AssemblyInfoInputs.cache
+D:\C#\Структуры данных\DataStructures\DataStructures\Queues\obj\Debug\net6.0\Queues.AssemblyInfo.cs
+D:\C#\Структуры данных\DataStructures\DataStructures\Queues\obj\Debug\net6.0\Queues.csproj.CoreCompileInputs.cache
+D:\C#\Структуры данных\DataStructures\DataStructures\Queues\obj\Debug\net6.0\Queues.dll
+D:\C#\Структуры данных\DataStructures\DataStructures\Queues\obj\Debug\net6.0\refint\Queues.dll
+D:\C#\Структуры данных\DataStructures\DataStructures\Queues\obj\Debug\net6.0\Queues.pdb
+D:\C#\Структуры данных\DataStructures\DataStructures\Queues\obj\Debug\net6.0\ref\Queues.dll
