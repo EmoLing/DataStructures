@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DataStructures/1.0.0": {
+        "dependencies": {
+          "Queues": "1.0.0",
+          "Stacks": "1.0.0"
+        },
+        "runtime": {
+          "DataStructures.dll": {}
+        }
+      },
+      "Queues/1.0.0": {
+        "runtime": {
+          "Queues.dll": {}
+        }
+      },
+      "Stacks/1.0.0": {
+        "runtime": {
+          "Stacks.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DataStructures/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Queues/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Stacks/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
